@@ -1,0 +1,34 @@
+h1{
+    text-align: center;
+    color:yellowgreen;
+    font-size: larger;
+    background-color: brown;
+    
+    
+ }
+ 
+ 
+ #count{
+    display:inline-block;
+    width: 80%;
+    text-align: center;
+    margin: auto;
+    height: 30px;
+    
+ }
+ ::placeholder{
+     font-size: 25px;
+     width: 100%;
+     
+ }
+ 
+ #current-time{
+     height: 50%;
+     width: 100%;
+     margin: auto;
+     margin-top: 25px;
+     font-size: 200px;
+     color:yellowgreen;
+     background-color: brown;
+     text-align: center;
+ }
